@@ -25,7 +25,7 @@
 
 Since this extension is currently a local project, you need to load it into Chrome manually:
 
-1.  **Download** or move all your project files into a single folder (e.g., named `EasyRead`).
+1.  Extract the zip file into a folder (e.g. "EasyRead").
 2.  Open Google Chrome and navigate to `chrome://extensions/`.
 3.  Toggle **Developer mode** in the top right corner.
 4.  Click the **Load unpacked** button in the top left.
